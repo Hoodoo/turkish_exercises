@@ -19,3 +19,27 @@ Form adjectives using suffix -LI
 | et     | /meat/   | ____________ |
 | lezzet | /taste/  | ____________ |
 | balık  | /fish/   | ____________ |
+
+*** Exercise 2: - LAR
+
+Suffix -LAR makes a plural. 
+
+Depending on the last vowel of the stem, it can take form of -lar or -ler.
+
+Make plural forms of the following words:
+
+|-------+---------+--------------|
+| kedi  | /cat/   | ____________ |
+| ördek | /duck/  | ____________ |
+| inek  | /cow/   | ____________ |
+| adam  | /man/   | ____________ |
+| kadın | /woman/ | ____________ |
+| çocuk | /child/ | ____________ |
+| oğlan | /boy/   | ____________ |
+| kız   | /girl/  | ____________ |
+| araba | /car/   | ____________ |
+| ev    | /house/ | ____________ |
+| kalem | /pen/   | ____________ |
+| book  | /kitap/ | ____________ |
+
+
