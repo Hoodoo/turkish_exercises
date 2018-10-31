@@ -42,4 +42,24 @@ Make plural forms of the following words:
 | kalem | /pen/   | ____________ |
 | book  | /kitap/ | ____________ |
 
+*** Exercise 3 - I have
 
+To say 'I have something' you should add the first person posessive suffix -m to a noun and add a word 'var'. If the stem ends with a consonant, you should use a buffer vowel which follows the I vowel harmony which gives us -IM. The possessive suffixes will be explained in more detail later, but it is a good example of both vowel harmony and consonant mutation!
+
+
+Say 'I have ...' using the following words:
+
+|--------+-----------+--------------|
+| kitap  | /book/    | kitabım var  |
+| köpek  | /dog/     | ____________ |
+| inek   | /cow/     | ____________ |
+| ördek  | /duck/    | ____________ |
+| hesap  | /bill/    | ____________ |
+| çocuk  | /child/   | ____________ |
+| ağaç   | /tree/    | ____________ |
+| ekmek  | /bread/   | ____________ |
+| sucuk  | /sausage/ | ____________ |
+| bardak | /glass/   | ____________ |
+| sokak  | /street/  | ____________ |
+| mutfak | /kitchen/ | ____________ |
+| ümit   | /hope/    | ____________ |
