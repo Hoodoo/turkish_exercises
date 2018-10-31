@@ -1,30 +1,31 @@
 ** Day 2 - Vowel Harmony and Consonant Assimilation
 *** Exercise 1: -LI
 
-Suffix -LI forms adjectives from nouns or verbs and means 'containing, coming from, having property'
-It takes forms -lı- li- -lu -lü depending on the last vowel of the stem.
+Suffix *-LI* forms adjectives from nouns or verbs and means 'containing, coming from, having property'
+It takes forms -lı- li- -lu -lü depending on the last vowel of the stem (I vowel harmony)
 
-Form adjectives using suffix -LI
+Form adjectives using suffix *-LI*
 
-|--------+----------+--------------|
-| şeker  | /sugar/  | ____________ |
-| tuz    | /salt/   | ____________ |
-| süt    | /milk/   | ____________ |
-| limon  | /lemon/  | ____________ |
-| ağaç   | /tree/   | ____________ |
-| soğan  | /onion/  | ____________ |
-| biber  | /pepper/ | ____________ |
-| şehir  | /town/   | ____________ |
-| yağ    | /oil/    | ____________ |
-| et     | /meat/   | ____________ |
-| lezzet | /taste/  | ____________ |
-| balık  | /fish/   | ____________ |
-
+|--------+-------------+--------------|
+| şeker  | /sugar/     | ____________ |
+| tuz    | /salt/      | ____________ |
+| süt    | /milk/      | ____________ |
+| limon  | /lemon/     | ____________ |
+| ağaç   | /tree/      | ____________ |
+| soğan  | /onion/     | ____________ |
+| biber  | /pepper/    | ____________ |
+| şehir  | /town/      | ____________ |
+| yağ    | /oil/       | ____________ |
+| et     | /meat/      | ____________ |
+| lezzet | /taste/     | ____________ |
+| balık  | /fish/      | ____________ |
+| akıl   | /intellect/ | ____________ |
+   
 *** Exercise 2: -LAR
 
-Suffix -LAR makes a plural. 
+Suffix *-LAR* makes a plural. 
 
-Depending on the last vowel of the stem, it can take form of -lar or -ler.
+Depending on the last vowel of the stem, it can take form of -lar or -ler (A/E vowel harmony)
 
 Make plural forms of the following words:
 
@@ -44,8 +45,7 @@ Make plural forms of the following words:
 
 *** Exercise 3: I have
 
-To say 'I have something' you should add the first person posessive suffix -m to a noun and add a word 'var'. If the stem ends with a consonant, you should use a buffer vowel which follows the I vowel harmony which gives us -IM. The possessive suffixes will be explained in more detail later, but it is a good example of both vowel harmony and consonant mutation!
-
+To say 'I have something' you should add the first person posessive suffix *-M* to a noun and add a word 'var'. If the stem ends with a consonant, you should use a buffer vowel which follows the I vowel harmony which gives us *-IM*. The possessive suffixes will be explained in more detail later, but it is a good example of both vowel harmony and consonant mutation!
 
 Say 'I have ...' using the following words:
 
@@ -66,9 +66,9 @@ Say 'I have ...' using the following words:
 
 *** Exercise 4: -CI
 
-The suffix -CI adds a meaning of profession or purpose, similar to -er in English. Depending on the last vowel of the stem, it can take form of -ci -cı -cu -cü. Final consonant of the stem, if not voiced, changes c to ç, which gives -çi -çı -çu -çü
+The suffix *-CI* adds a meaning of profession or purpose, similar to -er in English. Depending on the last vowel of the stem, it can take form of -ci -cı -cu -cü. Final consonant of the stem, if not voiced, changes *c* to *ç*, which gives -çi -çı -çu -çü
 
-Form nouns using suffix -CI
+Form nouns using suffix *-CI*
 
 |----------+------------+--------------+-------------------|
 | taksi    | /taxi/     | ____________ | /cab driver/      |
@@ -83,3 +83,25 @@ Form nouns using suffix -CI
 | ok       | /arrow/    | ____________ | /archer/          |
 | çiçek    | /flower/   | ____________ | /florist/         |
 | fizik    | /physics/  | ____________ | /phisician/       |
+
+*** Exercise 5: -CA
+
+The meaning of suffix *-CA* is similar to that of suffixes -ish, -ly in English, adding a meaning of manner, likeness, it also is used to form a name of a language.
+
+This suffix follows the *A/E* vowel harmony. Depending on the final consonant of the stem, *c* can be changed to - *ç*, resulting in forms -ca -ce -ça -çe.
+
+Form the adjectives using suffix *-CA*
+
+|----------+-----------------------+--------------|
+| Türk     | /Turk/                | ____________ |
+| gizli    | /secret/              | ____________ |
+| yavaş    | /slow/                | ____________ |
+| hoş      | /nice/                | ____________ |
+| Özbek    | /Uzbek/               | ____________ |
+| nazik    | /kind/                | ____________ |
+| Norveç   | /Norway/              | ____________ |
+| İngiliz  | /Englihhman, English/ | ____________ |
+| çocuk    | /child/               | ____________ |
+| sessiz   | /quiet/               | ____________ |
+| Rumen    | /Romanian/            | ____________ |
+| dikkatli | /careful/             | ____________ |
