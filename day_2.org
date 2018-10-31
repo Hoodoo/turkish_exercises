@@ -42,7 +42,7 @@ Make plural forms of the following words:
 | kalem | /pen/   | ____________ |
 | book  | /kitap/ | ____________ |
 
-*** Exercise 3 - I have
+*** Exercise 3: I have
 
 To say 'I have something' you should add the first person posessive suffix -m to a noun and add a word 'var'. If the stem ends with a consonant, you should use a buffer vowel which follows the I vowel harmony which gives us -IM. The possessive suffixes will be explained in more detail later, but it is a good example of both vowel harmony and consonant mutation!
 
@@ -63,3 +63,23 @@ Say 'I have ...' using the following words:
 | sokak  | /street/  | ____________ |
 | mutfak | /kitchen/ | ____________ |
 | ümit   | /hope/    | ____________ |
+
+*** Exercise 4: -CI
+
+The suffix -CI adds a meaning of profession or purpose, similar to -er in English. Depending on the last vowel of the stem, it can take form of -ci -cı -cu -cü. Final consonant of the stem, if not voiced, changes c to ç, which gives -çi -çı -çu -çü
+
+Form nouns using suffix -CI
+
+|----------+------------+--------------+-------------------|
+| taksi    | /taxi/     | ____________ | /cab driver/      |
+| balık    | /fish/     | ____________ | /fisher/          |
+| futbol   | /football/ | ____________ | /football player/ |
+| spor     | /spor/     | ____________ | /sportsman/       |
+| politika | /politics/ | ____________ | /politician/      |
+| posta    | /mail/     | ____________ | /mailman/         |
+| deniz    | /sea/      | ____________ | /sailor/          |
+| süt      | /milk/     | ____________ | /milkman/         |
+| golf     | /golf/     | ____________ | /golf player/     |
+| ok       | /arrow/    | ____________ | /archer/          |
+| çiçek    | /flower/   | ____________ | /florist/         |
+| fizik    | /physics/  | ____________ | /phisician/       |
