@@ -1,0 +1,21 @@
+** Day 2 - Vowel Harmony and Consonant Assimilation
+*** Exercise 1: -LI
+
+Suffix -LI forms adjectives from nouns or verbs and means 'containing, coming from, having property'
+It takes forms -lı- li- -lu -lü depending on the last vowel of the stem.
+
+Form adjectives using suffix -LI
+
+|--------+----------+---|
+| şeker  | /sugar/  |   |
+| tuz    | /salt/   |   |
+| süt    | /milk/   |   |
+| limon  | /lemon/  |   |
+| ağaç   | /tree/   |   |
+| soğan  | /onion/  |   |
+| biber  | /pepper/ |   |
+| şehir  | /town/   |   |
+| yağ    | /oil/    |   |
+| et     | /meat/   |   |
+| lezzet | /taste/  |   |
+| balık  | /fish/   |   |
