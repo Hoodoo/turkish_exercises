@@ -6,16 +6,16 @@ It takes forms -lı- li- -lu -lü depending on the last vowel of the stem.
 
 Form adjectives using suffix -LI
 
-|--------+----------+---|
-| şeker  | /sugar/  |   |
-| tuz    | /salt/   |   |
-| süt    | /milk/   |   |
-| limon  | /lemon/  |   |
-| ağaç   | /tree/   |   |
-| soğan  | /onion/  |   |
-| biber  | /pepper/ |   |
-| şehir  | /town/   |   |
-| yağ    | /oil/    |   |
-| et     | /meat/   |   |
-| lezzet | /taste/  |   |
-| balık  | /fish/   |   |
+|--------+----------+--------------|
+| şeker  | /sugar/  | ____________ |
+| tuz    | /salt/   | ____________ |
+| süt    | /milk/   | ____________ |
+| limon  | /lemon/  | ____________ |
+| ağaç   | /tree/   | ____________ |
+| soğan  | /onion/  | ____________ |
+| biber  | /pepper/ | ____________ |
+| şehir  | /town/   | ____________ |
+| yağ    | /oil/    | ____________ |
+| et     | /meat/   | ____________ |
+| lezzet | /taste/  | ____________ |
+| balık  | /fish/   | ____________ |
