@@ -1,0 +1,59 @@
+** Day 3 - Nominal phrases
+
+*** Exercise 1: Positive nominal phrases
+
+Make positive nominal phrases using the following words:
+
+|-------+----------+-------------+--------------|
+| Ben   | yorgun   | /tired/     | ____________ |
+| Onlar | çocuk    | /child/     | ____________ |
+| Ben   | mutlu    | /happy/     | ____________ |
+| O     | iyi      | /well/      | ____________ |
+| Biz   | yabancı  | /foreigner/ | ____________ |
+| Onlar | ördek    | /duck/      | ____________ |
+| Sen   | cesur    | /brave/     | ____________ |
+| Biz   | aşçı     | /cook/      | ____________ |
+| O     | oğlan    | /boy/       | ____________ |
+| Ben   | doktor   | /doctor/    | ____________ |
+| Siz   | karamsar | /pessimist/ | ____________ |
+| Siz   | kadın    | /woman/     | ____________ |
+| Onlar | fizikçi  | /physician/ | ____________ |
+| Siz   | denizci  | /sailor/    | ____________ |
+| Sen   | adam     | /man/       | ____________ |
+| O     | kedi     | /cat/       | ____________ |
+| Biz   | okçu     | /archer/    | ____________ |
+| Sen   | garson   | /waiter/    | ____________ |
+
+*** Exercise 2: Negative nominal phrases
+
+Make negative nominal phrases using the following words:
+
+| Siz   | hasta     | /sick/        | ________________________ |
+| Ben   | fil       | /elephant/    | ________________________ |
+| Biz   | akıllı    | /smart/       | ________________________ |
+| Sen   | sekreter  | /secretary/   | ________________________ |
+| Ben   | güzel     | /beautiful/   | ________________________ |
+| Onlar | taksici   | /cab driver/  | ________________________ |
+| Sen   | üzgün     | /sad/         | ________________________ |
+| Biz   | inek      | /cow/         | ________________________ |
+| O     | öğretmen  | /teacher/     | ________________________ |
+| Onlar | tavşan    | /hare/        | ________________________ |
+| Biz   | tembel    | /lazy/        | ________________________ |
+| Ben   | şarkıcı   | /singer/      | ________________________ |
+| O     | inşaatçı  | /constructor/ | ________________________ |
+| Siz   | çalışkan  | /hardworking/ | ________________________ |
+| Onlar | çirkin    | /ugly/        | ________________________ |
+| Sen   | satıcı    | /salesperson/ | ________________________ |
+| O     | yakışıklı | /handsome/    | ________________________ |
+| Siz   | İngiliz   | /British/     | ________________________ |
+
+*** Exercise 3: Questions
+
+Make questions using the following words:
+
+*** Exercise 4: Negative questions
+
+Make negative questions using the following words:
+
+*** Exercise 5: All of the above
+

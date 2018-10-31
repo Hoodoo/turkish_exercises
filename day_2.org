@@ -11,9 +11,11 @@ Form adjectives using suffix *-LI*
 | tuz    | /salt/      | ____________ |
 | süt    | /milk/      | ____________ |
 | limon  | /lemon/     | ____________ |
+| üzüm   | /grape/     | ____________ |
 | ağaç   | /tree/      | ____________ |
 | soğan  | /onion/     | ____________ |
 | biber  | /pepper/    | ____________ |
+| şans   | /luck/      | ____________ |
 | şehir  | /town/      | ____________ |
 | yağ    | /oil/       | ____________ |
 | et     | /meat/      | ____________ |
@@ -31,13 +33,16 @@ Make plural forms of the following words:
 
 |-------+---------+--------------|
 | kedi  | /cat/   | ____________ |
+| kalem | /pen/   | ____________ |
 | ördek | /duck/  | ____________ |
+| kız   | /girl/  | ____________ |
 | inek  | /cow/   | ____________ |
 | adam  | /man/   | ____________ |
-| kadın | /woman/ | ____________ |
 | çocuk | /child/ | ____________ |
 | oğlan | /boy/   | ____________ |
-| kız   | /girl/  | ____________ |
+| kitap | /book/  | ____________ |
+| köpek | /dog/   | ____________ |
+| kadın | /woman/ | ____________ |
 | araba | /car/   | ____________ |
 | ev    | /house/ | ____________ |
 | kalem | /pen/   | ____________ |
@@ -49,20 +54,26 @@ To say 'I have something' you should add the first person posessive suffix *-M* 
 
 Say 'I have ...' using the following words:
 
-|--------+-----------+--------------|
-| kitap  | /book/    | kitabım var  |
-| köpek  | /dog/     | ____________ |
-| inek   | /cow/     | ____________ |
-| ördek  | /duck/    | ____________ |
-| hesap  | /bill/    | ____________ |
-| çocuk  | /child/   | ____________ |
-| ağaç   | /tree/    | ____________ |
-| ekmek  | /bread/   | ____________ |
-| sucuk  | /sausage/ | ____________ |
-| bardak | /glass/   | ____________ |
-| sokak  | /street/  | ____________ |
-| mutfak | /kitchen/ | ____________ |
-| ümit   | /hope/    | ____________ |
+|---------+-----------+--------------|
+| kitap   | /book/    | kitabım var  |
+| köpek   | /dog/     | ____________ |
+| peynir  | /cheese/  | ____________ |
+| hesap   | /bill/    | ____________ |
+| lamba   | /lamp/    | ____________ |
+| çocuk   | /child/   | ____________ |
+| bardak  | /glass/   | ____________ |
+| elma    | /apple/   | ____________ |
+| ağaç    | /tree/    | ____________ |
+| ördek   | /duck/    | ____________ |
+| ümit    | /hope/    | ____________ |
+| kedi    | /cat/     | ____________ |
+| inek    | /cow/     | ____________ |
+| oda     | /room/    | ____________ |
+| ekmek   | /bread/   | ____________ |
+| anahtar | /key/     | ____________ |
+| sokak   | /street/  | ____________ |
+| sucuk   | /sausage/ | ____________ |
+| mutfak  | /kitchen/ | ____________ |
 
 *** Exercise 4: -CI
 
@@ -71,17 +82,17 @@ The suffix *-CI* adds a meaning of profession or purpose, similar to -er in Engl
 Form nouns using suffix *-CI*
 
 |----------+------------+--------------+-------------------|
+| politika | /politics/ | ____________ | /politician/      |
 | taksi    | /taxi/     | ____________ | /cab driver/      |
-| balık    | /fish/     | ____________ | /fisher/          |
 | futbol   | /football/ | ____________ | /football player/ |
 | spor     | /spor/     | ____________ | /sportsman/       |
-| politika | /politics/ | ____________ | /politician/      |
-| posta    | /mail/     | ____________ | /mailman/         |
 | deniz    | /sea/      | ____________ | /sailor/          |
-| süt      | /milk/     | ____________ | /milkman/         |
 | golf     | /golf/     | ____________ | /golf player/     |
+| balık    | /fish/     | ____________ | /fisher/          |
 | ok       | /arrow/    | ____________ | /archer/          |
 | çiçek    | /flower/   | ____________ | /florist/         |
+| posta    | /mail/     | ____________ | /mailman/         |
+| süt      | /milk/     | ____________ | /milkman/         |
 | fizik    | /physics/  | ____________ | /phisician/       |
 
 *** Exercise 5: -CA
@@ -94,15 +105,15 @@ Form the adjectives using suffix *-CA*
 
 |----------+-----------------------+--------------|
 | Türk     | /Turk/                | ____________ |
-| gizli    | /secret/              | ____________ |
-| yavaş    | /slow/                | ____________ |
-| hoş      | /nice/                | ____________ |
 | Özbek    | /Uzbek/               | ____________ |
-| nazik    | /kind/                | ____________ |
 | Norveç   | /Norway/              | ____________ |
+| dikkatli | /careful/             | ____________ |
+| gizli    | /secret/              | ____________ |
+| Rumen    | /Romanian/            | ____________ |
+| yavaş    | /slow/                | ____________ |
 | İngiliz  | /Englihhman, English/ | ____________ |
+| hoş      | /nice/                | ____________ |
 | çocuk    | /child/               | ____________ |
 | sessiz   | /quiet/               | ____________ |
-| Rumen    | /Romanian/            | ____________ |
-| dikkatli | /careful/             | ____________ |
+| nazik    | /kind/                | ____________ |
 
