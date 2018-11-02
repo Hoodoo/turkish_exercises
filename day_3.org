@@ -4,25 +4,25 @@
 
 Make positive nominal phrases using the following words:
 
-|-------+----------+-------------+--------------|
-| Ben   | yorgun   | /tired/     | ____________ |
-| Onlar | çocuk    | /child/     | ____________ |
-| Ben   | mutlu    | /happy/     | ____________ |
-| O     | iyi      | /well/      | ____________ |
-| Biz   | yabancı  | /foreigner/ | ____________ |
-| Onlar | ördek    | /duck/      | ____________ |
-| Sen   | cesur    | /brave/     | ____________ |
-| Biz   | aşçı     | /cook/      | ____________ |
-| O     | oğlan    | /boy/       | ____________ |
-| Ben   | doktor   | /doctor/    | ____________ |
-| Siz   | karamsar | /pessimist/ | ____________ |
-| Siz   | kadın    | /woman/     | ____________ |
-| Onlar | fizikçi  | /physician/ | ____________ |
-| Siz   | denizci  | /sailor/    | ____________ |
-| Sen   | adam     | /man/       | ____________ |
-| O     | kedi     | /cat/       | ____________ |
-| Biz   | okçu     | /archer/    | ____________ |
-| Sen   | garson   | /waiter/    | ____________ |
+|-------+----------+-------------+--------------------------|
+| Ben   | yorgun   | /tired/     | ________________________ |
+| Onlar | çocuk    | /child/     | ________________________ |
+| Ben   | mutlu    | /happy/     | ________________________ |
+| O     | iyi      | /well/      | ________________________ |
+| Biz   | yabancı  | /foreigner/ | ________________________ |
+| Onlar | ördek    | /duck/      | ________________________ |
+| Sen   | cesur    | /brave/     | ________________________ |
+| Biz   | aşçı     | /cook/      | ________________________ |
+| O     | oğlan    | /boy/       | ________________________ |
+| Ben   | doktor   | /doctor/    | ________________________ |
+| Siz   | karamsar | /pessimist/ | ________________________ |
+| Siz   | kadın    | /woman/     | ________________________ |
+| Onlar | fizikçi  | /physician/ | ________________________ |
+| Siz   | denizci  | /sailor/    | ________________________ |
+| Sen   | adam     | /man/       | ________________________ |
+| O     | kedi     | /cat/       | ________________________ |
+| Biz   | okçu     | /archer/    | ________________________ |
+| Sen   | garson   | /waiter/    | ________________________ |
 
 *** Exercise 2: Negative nominal phrases
 
