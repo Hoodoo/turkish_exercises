@@ -97,3 +97,60 @@ Make negative questions using the following words:
 
 *** Exercise 5: All of the above
 
+Using the words below, form a statement (\+), a negative statement (\-), a question (\+?) or a negative question (\-?):
+
+| +  | Ben   | başkan    | /president/   | ________________________ |
+| -? | Onlar | sakin     | /calm/        | ________________________ |
+| +  | Siz   | oğlan     | /boy/         | ________________________ |
+| ?  | Ben   | hasta     | /sick/        | ________________________ |
+| +? | Biz   | fizikçi   | /physician/   | ________________________ |
+| -  | Onlar | balıkçı   | /fisher/      | ________________________ |
+| +? | Biz   | yorgun    | /tired/       | ________________________ |
+| -  | Ben   | yabancı   | /foreigner/   | ________________________ |
+| +  | Biz   | okçu      | /archer/      | ________________________ |
+| +  | O     | karamsar  | /pessimist/   | ________________________ |
+| -? | Biz   | taksici   | /cab driver/  | ________________________ |
+| +? | Sen   | müzisyen  | /musician/    | ________________________ |
+| -  | Siz   | korkak    | /coward/      | ________________________ |
+| -  | O     | aslan     | /lion/        | ________________________ |
+| -? | Onlar | kız       | /girl/        | ________________________ |
+| +? | Biz   | inek      | /cow/         | ________________________ |
+| -  | Onlar | çiftçi    | /farmer/      | ________________________ |
+| +  | O     | fil       | /elephant/    | ________________________ |
+| -? | Sen   | cesur     | /brave/       | ________________________ |
+| +? | Biz   | denizci   | /sailor/      | ________________________ |
+| -  | Siz   | tavşan    | /hare/        | ________________________ |
+| -  | Ben   | endişeli  | /anxious/     | ________________________ |
+| +? | O     | nazik     | /kind/        | ________________________ |
+| -  | Biz   | kedi      | /cat/         | ________________________ |
+| +  | Sen   | fare      | /mouse/       | ________________________ |
+| +  | Ben   | çirkin    | /ugly/        | ________________________ |
+| -? | Siz   | dikkatli  | /careful/     | ________________________ |
+| -? | O     | sekreter  | /secretary/   | ________________________ |
+| -  | Sen   | satıcı    | /salesperson/ | ________________________ |
+| +  | Onlar | güzel     | /beautiful/   | ________________________ |
+| +? | Ben   | mutlu     | /happy/       | ________________________ |
+| -? | O     | deli      | /crazy/       | ________________________ |
+| -  | Onlar | iyi       | /fine/        | ________________________ |
+| +  | Siz   | garson    | /waiter/      | ________________________ |
+| +  | Biz   | öğrenci   | /student/     | ________________________ |
+| -? | Sen   | yakışıklı | /handsome/    | ________________________ |
+| +? | Ben   | adam      | /man/         | ________________________ |
+| +  | Onlar | tembel    | /lazy/        | ________________________ |
+| -? | Sen   | çocuk     | /child/       | ________________________ |
+| +  | Ben   | iyimser   | /optimist/    | ________________________ |
+| -  | Siz   | inşaatçı  | /constructor/ | ________________________ |
+| -? | Onlar | üzgün     | /sad/         | ________________________ |
+| +? | O     | yaşlı     | /old/         | ________________________ |
+| -  | Sen   | akıllı    | /smart/       | ________________________ |
+| -  | Ben   | sanatçı   | /artist/      | ________________________ |
+| +  | Siz   | öğretmen  | /teacher/     | ________________________ |
+| +  | Sen   | kadın     | /woman/       | ________________________ |
+| -? | O     | ördek     | /duck/        | ________________________ |
+| +? | Biz   | aç        | /hungry/      | ________________________ |
+| -? | Siz   | aşçı      | /cook/        | ________________________ |
+| +  | Sen   | hoş       | /nice/        | ________________________ |
+| -  | Onlar | doktor    | /doctor/      | ________________________ |
+| -  | Siz   | çalışkan  | /hardworking/ | ________________________ |
+| -? | O     | hızlı     | /fast/        | ________________________ |
+
