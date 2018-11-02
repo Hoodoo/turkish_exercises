@@ -1,3 +1,8 @@
+* Dictionary for day 3
+
+You can copy and paste it into google sheets and use it in flashcards deluxe app to practice the vocabulary
+
+
 | adam      | /man/         |
 | akıllı    | /smart/       |
 | aslan     | /lion/        |
