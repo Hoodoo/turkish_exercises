@@ -51,9 +51,49 @@ Make negative nominal phrases using the following words:
 
 Make questions using the following words:
 
+| O     | çocuk   | /child/    | ________________________ |
+| Ben   | nazik   | /kind/     | ________________________ |
+| Siz   | aşçı    | /cook/     | ________________________ |
+| Ben   | öğrenci | /student/  | ________________________ |
+| Biz   | fil     | /elephant/ | ________________________ |
+| Sen   | iyi     | /fine/     | ________________________ |
+| Onlar | balıkçı | /fisher/   | ________________________ |
+| Biz   | şarkıcı | /singer/   | ________________________ |
+| Sen   | korkak  | /coward/   | ________________________ |
+| O     | kız     | /girl/     | ________________________ |
+| Ben   | tembel  | /lazy/     | ________________________ |
+| Onlar | deli    | /crazy/    | ________________________ |
+| Biz   | akıllı  | /smart/    | ________________________ |
+| Siz   | cesur   | /brave/    | ________________________ |
+| Onlar | yorgun  | /tired/    | ________________________ |
+| Sen   | aç      | /hungry/   | ________________________ |
+| O     | iyimser | /optimist/ | ________________________ |
+| Siz   | çiftçi  | /farmer/   | ________________________ |
+
 *** Exercise 4: Negative questions
 
 Make negative questions using the following words:
+
+| Biz   | kedi      | /cat/       | ________________________ |
+| Onlar | yaşlı     | /old/       | ________________________ |
+| O     | sakin     | /calm/      | ________________________ |
+| Biz   | başkan    | /president/ | ________________________ |
+| Ben   | endişeli  | /anxious/   | ________________________ |
+| Sen   | sanatçı   | /artist/    | ________________________ |
+| Onlar | öğretmen  | /teacher/   | ________________________ |
+| Siz   | ördek     | /duck/      | ________________________ |
+| Biz   | yakışıklı | /handsome/  | ________________________ |
+| O     | müzisyen  | /musician/  | ________________________ |
+| Ben   | dikkatli  | /careful/   | ________________________ |
+| Onlar | oğlan     | /boy/       | ________________________ |
+| Sen   | fare      | /mouse/     | ________________________ |
+| Siz   | aslan     | /lion/      | ________________________ |
+| Ben   | hızlı     | /fast/      | ________________________ |
+| Sen   | mutlu     | /happy/     | ________________________ |
+| O     | denizci   | /sailor/    | ________________________ |
+| Siz   | hoş       | /nice/      | ________________________ |
+
+
 
 *** Exercise 5: All of the above
 
